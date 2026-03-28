@@ -2,6 +2,8 @@
 
 This dashboard combines health metrics, user analytics, and financial insights into one modern, interactive interface. It was designed to help users track their fitness progress and understand their calorie needs using intelligent DAX calculations.
 
+Project Link :-https://app.powerbi.com/view?r=eyJrIjoiZDViZjhjNjAtNjMyYi00OWNmLWJmZjMtOWM1MGQ5MzMxMjVjIiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
 -> Key Features:
 
 📌 BMI Calculator (Dynamic Height & Weight Slider)
